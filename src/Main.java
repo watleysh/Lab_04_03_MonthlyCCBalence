@@ -13,6 +13,6 @@ public class Main
     // second month
 
     IO.println("The balence after two months is : " + balence);
-    
+
     }
 }
